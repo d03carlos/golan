@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	//Declramos nuestras varibales locales
+	//Declaramos nuestras varibales locales
 	var numero int
 	var suma int = 0
 	//pedimos al usuario que ingrese un numero
